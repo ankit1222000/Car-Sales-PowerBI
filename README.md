@@ -85,8 +85,8 @@ You can explore the dashboard design and DAX code in this repository: [Car Sales
 
 *(Include screenshots here of key visuals in your Power BI dashboard for a complete view)*
 
-![dashboard overview](https://github.com/user-attachments/assets/598ebb8f-f029-44e1-840e-fab847d1126d)
-![dataied](https://github.com/user-attachments/assets/78efbdde-f747-4ce6-b0ee-b397e8bd49b5)
+![dashboard overview](https://github.com/user-attachments/assets/e76b8950-4363-4e99-b1d1-088c3d5aa71b)
+![dataied](https://github.com/user-attachments/assets/522bb91e-9142-4987-9593-0f8540083d3b)
 
 
 ---
