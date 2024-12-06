@@ -92,8 +92,7 @@ You can explore the dashboard design and DAX code in this repository: [Car Sales
 ---
 
 ## 📫 Contact
-
-If you have any questions or feedback on the project, feel free to reach out on LinkedIn or directly through GitHub.
+- [Ankit Bhatia](https://www.linkedin.com/in/ankit-bhatia12/) - Graduate MIS Student at University of Texas at Arlington | Ex-Business Data Analyst at Tata Consultancy Services (TCS)
 
 ---
 
